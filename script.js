@@ -1,0 +1,1 @@
+console.log('Galamed website loaded');
